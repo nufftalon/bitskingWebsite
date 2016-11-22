@@ -1,0 +1,47 @@
+/* Body */
+body {
+  padding-top: 50px;
+}
+
+/* Banner */
+.banner {
+  height: 400px;
+  width: 100%;
+  max-height: 50%;
+  max-width: 100%;
+  min-height: 20%;
+  min-width: 30%;
+  background-image: url("assets/images/banner.jpg");
+  background-size: cover;
+}
+
+/* Icon size */
+.icon-main {
+  font-size: 4em;
+  border: 1px solid black;
+  padding: 5%;
+  border-radius: 100px;
+}
+
+/* Home sections */
+.section-one {
+  text-align: center;
+  margin: 10% 0 0 0;
+}
+
+.section-two img {
+  float: right;
+  width: 80%;
+  max-height: 200px;
+}
+
+.section-two h3 {
+  width: 65px;
+  border-bottom: 1px solid black;  
+}
+
+.section-two {
+  margin: 10% 0 10% 0;
+  background-color: #eee;
+  padding: 4% 2% 4% 2%;
+}
