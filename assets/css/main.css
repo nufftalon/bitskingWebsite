@@ -6,13 +6,10 @@ body {
   font-family: 'Roboto Condensed';
 }
 
-<<<<<<< HEAD
 .dropdown:hover .dropdown-menu {
   display: block;
 }
 
-=======
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
 
 
 /********************
@@ -21,17 +18,12 @@ BANNER
 
 .banner {
   font-family: 'Roboto Condensed';
-<<<<<<< HEAD
   height: 600px;
-=======
-  height: 400px;
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
   width: 100%;
   max-height: 50%;
   max-width: 100%;
   min-height: 20%;
   min-width: 30%;
-<<<<<<< HEAD
   background-image: url("http://www.mediafire.com/convkey/63f5/8cukn232x28q5xkzg.jpg");
   background-size: cover;
   background-position: center;
@@ -48,14 +40,12 @@ BANNER
   padding: 1%;
 }
 
-=======
 }
 
 #banner-sub {
   font-family: 'Source Code Pro';
 }
 
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
 
 
 /********************
@@ -73,7 +63,6 @@ ICONS
 
 .icon-footer {
   font-size: 2em;
-<<<<<<< HEAD
   padding: 2% 1% 0 1%;
   color: #9d9d9d;
   margin: 0 0 0.5% 0;
@@ -99,13 +88,8 @@ footer p {
 }
 
 
-=======
-  padding: 0 1%;
-}
 
 
-
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
 /********************
 HOME SECTIONS
 ********************/
@@ -132,11 +116,7 @@ HOME SECTIONS
 }
 
 .section-two {
-<<<<<<< HEAD
-  margin: 10% 0 0;
-=======
-  margin: 10% 0 5% 0;
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
+  margin: 10% 0 0 0;
   padding: 4% 2% 4% 2%;
   background-color: #eee;
 }
@@ -144,8 +124,4 @@ HOME SECTIONS
 .sec2-move {
   transform: translate(100px, 0);
   font-size: 1.5em;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d2c4cf68fa4b4beb11f0dcfd335ed00e8595aeed
